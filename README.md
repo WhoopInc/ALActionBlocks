@@ -1,5 +1,7 @@
 # ALActionBlocks
 
+This is a fork of ALActionBlocks, forked from https://github.com/lavoy/ALActionBlocks to use as a Swift Package.
+
 ALActionBlocks is an Objective-C category on UIControl, UIBarButtonItem, and UIGestureRecognizer that allows for handling of control events with blocks.
 
 - Handle control events with blocks
